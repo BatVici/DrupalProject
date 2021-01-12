@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c2ae015-af07-4736-949f-4f44909fad59" name="Default Changelist" comment="" />
+    <list default="true" id="1c2ae015-af07-4736-949f-4f44909fad59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/business_responsive_theme/images/slider/slide_01.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,6 +135,7 @@
       <workItem from="1608133117090" duration="974000" />
       <workItem from="1608585951516" duration="196000" />
       <workItem from="1610294710291" duration="65000" />
+      <workItem from="1610460051252" duration="265000" />
     </task>
     <servers />
   </component>
@@ -149,5 +152,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
